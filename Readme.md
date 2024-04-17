@@ -1,4 +1,4 @@
-#COMP3133 Assignment 1: Backend Application#
+# COMP3133 Assignment 1: Backend Application#
 
 Welcome to the COMP3133 Assignment 1 repository! This project involves developing a Backend application using Node.js, Express, GraphQL, and MongoDB. Below, you'll find details about the project requirements, methods, database structure, and instructions on how to contribute.
 
@@ -22,22 +22,22 @@ Getting Started
 To contribute to this project, follow these steps:
 
 
-###Clone the repository to your local machine:###
+### Clone the repository to your local machine:###
 bash
 Copy code
 git clone https://github.com/Divine2f/101394076_COMP3133_Assignment1.git
 Install dependencies:
 
-###Copy code###
+### Copy code###
 npm install
 Start the development server:
 
-###sql###
+### sql###
 Copy code
 npm start
 Test the GraphQL API using GraphiQL or Postman.
 
-###Database Structure###
+### Database Structure###
 Users Collection
 username: String (Primary Key)
 email: String (Unique)
@@ -56,5 +56,5 @@ All data must be sent back and forth in JSON Object format.
 Optionally apply JWT security concept to secure all API calls.
 No late submissions accepted.
 
-###Contributors###
+### Contributors###
 Divine Iyalla Falola - Junior Software Engineer
